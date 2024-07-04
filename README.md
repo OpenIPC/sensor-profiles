@@ -24,14 +24,11 @@ Choose this config if you fly freestyle FPV
 - noise reduction / sharpness tweaked for all conditions
 - try to look beautiful all the time
 
-also works on imx415
+Also works on imx415
 
 For cleanest image, set max shutter (aka exposure in majestic.yaml) to 1 divided by fps (eg 1/120 = 8.333ms for 120fps)
  
- , by Greg Sparks
-
-#### imx335_ssc338q_202407xx.bin
-
+by Greg Sparks
 
 
 
@@ -44,11 +41,9 @@ formally named imx415_fpv9.bin
 
 For cleanest image, set max shutter (aka exposure in majestic.yaml) to 1 divided by fps (eg 1/120 = 8.333ms for 120fps)
 
-, by Greg Sparks
+by Greg Sparks
 
-#### imx415_ssc338q_202407xx.bin
 
-You can write your essay here
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
