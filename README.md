@@ -31,6 +31,9 @@ For cleanest image, set max shutter (aka exposure in majestic.yaml) to 1 divided
 by Greg Sparks
 
 
+#### [imx335_greg15.bin](https://github.com/OpenIPC/sensor-profiles/raw/master/files/imx335_greg15.bin)
+
+
 
 ### IMX415
 
